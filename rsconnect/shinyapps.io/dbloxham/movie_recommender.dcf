@@ -1,0 +1,10 @@
+name: movie_recommender
+title:
+username: dbloxham
+account: dbloxham
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10764521
+bundleId: 8030672
+url: https://dbloxham.shinyapps.io/movie_recommender/
+version: 1
